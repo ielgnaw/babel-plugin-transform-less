@@ -1,0 +1,31 @@
+{
+  "name": "babel-plugin-transform-less",
+  "version": "0.0.1-beta.1",
+  "description": "Auto-generates React StyleSheets from import statements of Less files.",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel",
+    "react",
+    "react-native",
+    "babel-plugin",
+    "stylesheet",
+    "less",
+    "style",
+    "import",
+    "hook",
+    "plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ielgnaw/babel-plugin-transform-less.git"
+  },
+  "author": "ielgnaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ielgnaw/babel-plugin-transform-less/issues"
+  },
+  "homepage": "https://github.com/ielgnaw/babel-plugin-transform-less#readme"
+}
